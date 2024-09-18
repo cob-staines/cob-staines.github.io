@@ -1,0 +1,157 @@
+Cob Staines
+
+Explore and restore resillience in our ecocultural communities
+Reflect and inflect resillience in our ecocultual communities
+Observation and relation for ecocultural resilience 
+Inspire and conspire
+Reciprocity as resilience
+Reconnect our
+
+Relational and emotional
+
+Ecological Researcher, Data Scientist, Educator
+
+[thats a mouthful, so lets try to restructure]
+
+Ecological researcher [Gathering, feeling small, listening, observing, meditation, breathing, a way to inspire, reflection, wisdom, learning]
+Data Scientist [Grinding, working hard, interpreting, analyzing, translation, restructuring, a way to perspire, inflection, labor, discerning]
+Educator [Shareing, giving back, communicateing, empowering, reciprocation, sowing, a way to conspire, connection, story, returning]
+
+mouse coordinates determine?
+
+Research as [listening]
+
+Data Science as [storytelling]
+
+Education as [reciprocity]
+
+
+Welcome to my personal webpage! Let me share with you why I think we should work together.
+
+[Our collaboration: an interactive poem]
+
+Core questions: [questions could be pulled form a set]
+Is this amphibian population declining?
+What variables influence long-term community resillience to Bd?
+To what extent can or should I help a frog overcome infection?
+
+[... 9 more...]
+
+These are some questions we can examine from the different perspectives of research, data science, or education. 
+
+[team science, slow science]
+
+
+An invitation to collaboration
+
+I am learning. Will you come learn with me?
+
+I am learning that the ways you and I go about asking and responding to questions are informed by our distinct cultural upbringings. You and I bring different values and different perspectives to this shared table. I am learning that new ideas come alive when illuminated by our distinct ways of thinking. We will misunderstand each other. But our collaboration honors misunderstanding as the most natural perturbation of our living ideas. We will work through them. Our collaboration is a commitment to honoring slow variables which feed the long term resillience of the systems in which we live and work. Our choice to work together is a choice to celebrate the before unseen opportunities brought by our unlikely combination, as we set out to inflect collaboratively and reciprocally on our relationships with those around us. 
+
+[open science ]
+Our collaboration is a commitment to transparency. To open methods and shared repositories, with guiding documentation to extend a hand to those who seek to sow the soil we have nourished. It means preservation of well-described and hard-earned observations such that the wisdom they carry can be passed on to others who learn to translate them into a common language.
+
+[education for action, reciprocity for resilience]
+We are the ears of a society with a headphone addiction. We can use our instruments to listen deeply, patiently, to understand our role in an [economy/ecology] of [gifts/reciprocity]. We are teaching to see fish in a culture that has become obsessed with it's own reflection. We are teaching to see circles where corporations have drawn lines. We can teach to see absence where before we only noticed presence. We are teaching to empower and to build chairs where systems of oppresion have forced some to stand. We are the media through which waves of liberation rebound from trauma. We are the voices that call out or the muscules that brake when our friends the eyes and ears tell us we are approaching danger.
+
+This is why I think you and I should work together.
+
+
+[This link is made to function deliberately slow. Maybe too slow. What will you do with your time?]
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Prompt: Introduce yourself with a personal statement, explain what this means to you, and introduce the values you will follow to get there.
+
+My name is Cob. I am one queer earthling, among many. This is where I share with you why and how I want to work with you.
+
+I am a researcher, data manager, and educator. Just like you! (Don't identify with those? Code switch!)
+
+Walk to explore and restore resilience in our socio-ecological communities.
+
+
+
+My culture is increasingly disconnected from our ecological relationships and responsibilities.
+
+When I turn open a faucent, water which was given freely by the clouds is pulled into a pipe, passes by a meter, and squirts out onto my hands. The privilege and convenience of potable water at my fingertips should not be understated. But it comes at a cost -- I am disconnected from the water's source. I don't know where it came from, who's gills it passed through, who I might be taking it away from. When I use this water it is much harder for me to use it responsibly, honoring the relationships I have with those who also rely on the gift of water.
+
+This pattern of dissociation has replicated fractally through our culture of convenience, from the food we eat which powers my fingertips to the electrons which flow through each switch as I type, to the petrolium and metals which were extracted to make this screen on which my thoughts glisten. 
+
+The impacts of this culture of convenience should not be understated either. I leave the shower running while I shampoo my hair without thinking of the fish downstream who also need cool water to breathe -- not because I don't care about the fish but because the system was designed to optimize my convenience only (otherwise the fish would have a knob to turn on whenever they needed to breathe, and I would wait downstream to shower when there was enough water). As technological advances reduce the costs and increase the efficiency of our convenience, it becomes easier and less expensive for me to leave the light on, or to buy asparagus that was flown to the supermarket from the outhern hemisphere. This is a rigidity trap. We are technologically optimizing our systems for user convenience without consideration of long-term sustainability of food and energy production, without honoring the rights to exist of other beings we share this planet with (human and beyond).
+
+[lack of resilience]
+
+Where do we go from here? Can we undo this harm without undoing convenience?
+
+The issue is not necisarily with the system of water pipes and shower heads, but rather in how this system removes my connection to the water sources. To recover from our cultural lack of foresight, we need to restore feedbacks in this system. Without the convenience of potable water distribution, when water is scarce, it takes more work to find it, haul it, and share it, and therefore the water we use will be valued more. This is the natural responsibilty of collection and harvest. When we work for water we also have a greater gratitude to it, and responsibility to protect where it comes from. There are beautiful feedbacks in these systems which are lost in systems engineered for convenience. Systems of feedback might look like:
+
+* Visiting our headwaters, water treatment and wastewater facilities, to learn of the journey that the water we rely on at home takes. 
+
+* Advocating for water to be priced nonlinearly (basics are free or cost a little, extras ccome with a marginal cost), with costs which scale based on local water availability and ecological needs.
+
+* Talking with local freshwater ecologists to understand the needs of fish in our current paturns of use, and when and how we might inform more compassionate collective use.
+
+These are the kinds of restorative feedbacks which we can weave into our socio-ecological systems. I want to know, before I turn on the shower, what is the socio-ecological impast of me using that water. I want to be able to assess the value of a shower with the value of leaving that water to others. Our current systems are optimised for short-term convenience, not for long-term empowerment, responsibility, and connection.
+
+We have work to do, and our work takes many forms.
+
+There is work to be done to understand better the impacts of a given action. How much water do fish need? What streamflow temperatures are safe for them, and at what times of the year? How much snow fell in the mountains this year? What wetlands will run dry this year if we use as much water as we did last year? These are questions we might know the answers to better if we lived closer to the land. Locals (human and nonhuman), historians, researchers -- these beings are our senses which tell us the impact of our actions, who can inform us as to where to best walk and at what pace.
+
+There is work to be done to create and maintain access to these data and relationships, for the empowerment of those who are not currently in a position to make these observations themselves. To be empowered these data ust be reliable, verifiable, accessible and interpretable to as wide an audience as possible.
+
+Therefore, there is work to be done to educate ourselves and our communities, particularly our youth, to the relationships that they share with the world beyond their faucets.
+
+This is the work we all take on collectively, in which we all hold a mutual responsibility. We are all researchers, data managers, and educators -- though in diverse and distributed ways.
+
+==================================================================================================================================
+
+
+
+
+
+learning to cultivate socio-ecological resilience by sowing relational ecocultural feedbacks
+
+learning to sow relational ecocultural feedbacks to restore socio-ecological resilience
+
+[learning to sow relational ecocultural feedbacks for socio-ecological resilience]
+
+sowing relational ecocultural feedbacks for socio-ecological resilience
+
+working to sow [nurture] relational ecocultural feedbacks for socio-ecological resilience
+
+working to nurture relational ecocultural feedbacks for socio-ecological resilience
+
+My name is Cob Staines. I am one queer earthling. I am the culmination of my community, and a collaborator in our community to come. I am an researcher, data manager, and educator. [code switch]
+
+Let me share with you why I think se should work together.
+
+
+The path
+
+AND / BUT / THEREFORE
+
+Today we can honor with our attention the critical points between self-attracting cascades of coexistence and coextinction, which our shared socio-ecological system is traversing. We can honor the challenges posed by uncertainty and instability in our shared environment. We can also honor our emotional and cultural draws to shelter from the cascade of uncertainty these instabilities bring -- draws to turn our attention away from species, cultures, communities, and perspectives with which we struggle to empathize. May we recognize that our inward-turning erodes our capacity to respond to instability with informed, mutualistic, stabilizing acts. Let us instead work together to nurture ecocultural seeds of outward-turning, relational complicity in our coexistence, to nourish the restorative feedbacks which compose the emergent resilience of our shared socio-ecological system. Honoring where we find ourselves today, let us walk the path of empathy, collaboration, and mutual support together, toward a more stable coexistence tomorrow.
+
+We carry a collective concern for the current dynamics of our socio-ecological system, as we see it approaching and traversing ridges between stable cascades of coexistence and coextinction.
+
+____________________________________________________________________________________________________________________
+
+[Our shared path ahead]
+[on how we come to work together]
+[A mutual outward-turning]
+[Our collaboration]
+[Our collaboration as a threshold]
+
+You and I come together from different paths, cultures, and perspectives. We share a collective concern for evolving instabilities in our shared socio-ecological system -- for our collective probing of nebulous boundaries between local attractors of coexistence and coextinction. We acknowledge the divisive challenges of uncertainty brought by instability in our communities. We also acknowledge our emotional and cultural draws to turn our attention inward and away from other species, cultures, communities, and perspectives when uncertainty overwhelms us. Together we recognize that our inward-turning erodes our capacity to respond to systemic instabilities with informed, mutualistic, stabilizing acts. We choose instead to collaborate, to nurture ecocultural seeds of outward-turning, relational complicity in our coexistence, to nourish the restorative feedbacks which emerge as resilience in our shared socio-ecological system. Honoring where we find ourselves today, we choose to walk together in empathy and collaboration, reawakening a path of mutualism toward a more stable coexistence tomorrow.
+
+[research/observation/listening as a step]
+[researcher - observer - listener]
+Shared stability begins with observation. Bear cubs watch their mamas closely to learn the art of how to eat what and when, with locally tuned wisdom echoing across diverse communities and climates. The work of a researcher is to respectfully foster a collective understanding of the experiences and relationships of other beings, to empower a mutualistic coexistence. The path of understanding cannot be shared by entering a new community with a cacophony of self righteous praise. Instead it calls for respectful listening, self-awareness of our limited perspectives, and open-mindedness to consider a realm of possible experiences and relationships which may differ from our own. Perhaps this means sitting by a stream to allow an aquatic community to enlighten us to its local ecological wisdom. This may mean holding space for misunderstanding -- that natural perturbation of living ideas which thrives in diverse communities -- to expand the thought horizons of our feedbacks. This may look like listening intentionally to the stories of our elders, to expand the time horizons of our feedbacks. Stability in dynamic systems requires feedbacks, and all feedbacks require listening.
+
+[data management/curation/translation as a step]
+[data manager - scribe - translator]
+Long-term stability is nourished by long-term system memory. Elder spruce trees epigenetically pass down knowledge of historic conditions to their seedlings, so that they may be more prepared when extreme moisture or temperature events come to visit again. The work of a data manager is to nurture our collective memory. The hard earned observations of researchers cannot inform our relational complicity once they have been washed downstream. At the same time, we cannot contain the entirety of the river of knowledge. Empowering data management selectively recirculates that which can inform mutualistic, stabilizing acts into the future, in ways that are accessible, parsable, interpretable and relevant. We can remember that the scribe need not necessarily speak the language to preserve its message. Data should represent a diversity of sources and perspectives, and through preservation be made available to a diversity of listeners and storytellers. Stability in adaptive systems requires memory, and memory is enhanced by empowering data management.
+
+{education/communication/storytelling as a step}
+[educator - communicator - storyteller]
+
+Knowledge is not meant to be stored. The stories that find their way to us through our observations and collective memory come with the responsibility to be shared. Willow communities maintain diverse and distributed genomes across isolated riparian areas through widespread dispersal of pollen. The work of the educator is to sow ecocultural seeds of mutualism through relatable and distributed storytelling. Distributed systems are more resilient to local perturbation. A liberating educator lets go of the notion of knowledge control to empower students to apply knowledge in unknowable yet empowering ways. An education which celebrates diverse minds and values plants seeds of diverse interpretations of knowledge to come, supporting diverse and distributed feedbacks in our complex socio-ecological web. Stability in complex systems requires diversity, and shared knowledge is diversified through liberating education.
